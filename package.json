@@ -5,7 +5,7 @@
   "email": "operations@firebase.com",
   "name": "firebase",
   "description": "Firebase library for Node.js",
-  "version": "2.2.7",
+  "version": "2.2.8",
   "main": "./lib/firebase-node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
